@@ -1,0 +1,7 @@
+stripe publish key=
+pk_test_51LMCPjSEQBdQG2RpiJTvKowk4S4wubYrFJwiL9SoY06uR4558tMekeQewbSYAHnvWPmLMCPtHjhBL5fVuJ2hng3U00L2QYCtPr
+
+
+
+secret key=
+sk_test_51LMCPjSEQBdQG2Rpxq28kJk4KqYWYSAi9bvXQpZWhnB6RggUFhCVJrAAJDmglTx06cAzi1oi7JB6bUeQ9VWiinuL00iGPkyPSI
